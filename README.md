@@ -12,9 +12,9 @@
 - [Zelle.pdf](https://github.com/user-attachments/files/19761718/Zelle.pdf)
 
 ## Individual Analysis
-[KatesH_Analysis.pdf](https://github.com/user-attachments/files/19761699/KatesH_Analysis.pdf)
-[Individual Analysis-Patel.pdf](https://github.com/user-attachments/files/19761707/Individual.Analysis-Patel.pdf)
-[Individual Analysis - Sika.pdf](https://github.com/user-attachments/files/19761715/Individual.Analysis.-.Sika.pdf)
+- [KatesH_Analysis.pdf](https://github.com/user-attachments/files/19761699/KatesH_Analysis.pdf)
+- [Individual Analysis-Patel.pdf](https://github.com/user-attachments/files/19761707/Individual.Analysis-Patel.pdf)
+- [Individual Analysis - Sika.pdf](https://github.com/user-attachments/files/19761715/Individual.Analysis.-.Sika.pdf)
 
 ## Final Analysis
 Our report can be accessed by clicking [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EXM1TbGgxNVEtYLPTXZlirkBM7KK6KIE9cHDkd6wd3o53g?rtime=p9430H943Ug).
