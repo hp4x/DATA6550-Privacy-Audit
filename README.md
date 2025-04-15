@@ -17,6 +17,7 @@
 - [Individual Analysis - Sika.pdf](https://github.com/user-attachments/files/19761715/Individual.Analysis.-.Sika.pdf)
 
 ## Regulatory Comparison
+- [Regulatory Compliance.pdf](https://github.com/user-attachments/files/19761956/Regulatory.Compliance.pdf)
 
 ## Regulatory_matrix.xlsx
 
