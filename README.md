@@ -12,7 +12,7 @@
 - [Zelle.pdf](https://github.com/user-attachments/files/19761718/Zelle.pdf)
 
 ## Individual Analysis
-- [KatesH_Analysis.pdf](https://github.com/user-attachments/files/19761699/KatesH_Analysis.pdf)
+- [Individual Analysis - Kates](https://github.com/user-attachments/files/19761699/KatesH_Analysis.pdf)
 - [Individual Analysis - Patel.pdf](https://github.com/user-attachments/files/19761707/Individual.Analysis-Patel.pdf)
 - [Individual Analysis - Sika.pdf](https://github.com/user-attachments/files/19761715/Individual.Analysis.-.Sika.pdf)
 
