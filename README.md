@@ -27,5 +27,5 @@
 Our report can be accessed by clicking [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EXM1TbGgxNVEtYLPTXZlirkBM7KK6KIE9cHDkd6wd3o53g?rtime=p9430H943Ug).
 
 ## Collaboration
-WeekA.docx
-WeekB.docx
+[Week A](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EZWUkdni_NhCsMucXHBUnisBEp-MfRWU0wqy_WDFxaLUcA?e=ZVeKJc)
+[Week B](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EdC696VEq2BIpak_dmDz2jsBfwqPDCAGQFfioUEzn0JR-A?e=5Zsh2l)
