@@ -13,15 +13,13 @@
 
 ## Individual Analysis
 - [KatesH_Analysis.pdf](https://github.com/user-attachments/files/19761699/KatesH_Analysis.pdf)
-- [Individual Analysis-Patel.pdf](https://github.com/user-attachments/files/19761707/Individual.Analysis-Patel.pdf)
+- [Individual Analysis - Patel.pdf](https://github.com/user-attachments/files/19761707/Individual.Analysis-Patel.pdf)
 - [Individual Analysis - Sika.pdf](https://github.com/user-attachments/files/19761715/Individual.Analysis.-.Sika.pdf)
 
 ## Regulatory Comparison
 - [Regulatory Compliance.pdf](https://github.com/user-attachments/files/19761956/Regulatory.Compliance.pdf)
 
-## Regulatory_matrix.xlsx
-
-## Findings.docx (notes about the data)
+## Regulatory Matrix
 
 ## Final Analysis
 Our report can be accessed by clicking [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EaP1iF_kFjRCktNMkFJYBIYBSh5ob0Jqr1PDH6i5j6rmPA?e=479vhb).
