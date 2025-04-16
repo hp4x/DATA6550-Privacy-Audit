@@ -20,6 +20,7 @@
 - [Regulatory Compliance.pdf](https://github.com/user-attachments/files/19761956/Regulatory.Compliance.pdf)
 
 ## Regulatory Matrix
+- [Comparison Matrix.xlsx](https://github.com/user-attachments/files/19777922/Comparison.Matrix.xlsx)
 
 ## Final Analysis
 Our report can be accessed by clicking [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EaP1iF_kFjRCktNMkFJYBIYBSh5ob0Jqr1PDH6i5j6rmPA?e=479vhb).
